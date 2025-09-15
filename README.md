@@ -36,11 +36,6 @@ This was my **first-semester project** as part of my Computer Science curriculum
 
 ---
 
-## Screenshots
-*(Optional: Add screenshots of booking, tickets, or reports here)*
-
----
-
 ## Notes
 - The system currently works for **90 seats**.
 - Ticket pricing varies by class:
